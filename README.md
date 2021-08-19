@@ -22,7 +22,8 @@ A web developer that passionate about the work process. I like doing helpful stu
    * Redux 
    * Vue 
    * Vuex
-   * Jest 
+   * Jest
+* Typescript 
 * Node JS
    * Webpack
    * Express  
@@ -30,7 +31,7 @@ A web developer that passionate about the work process. I like doing helpful stu
 * Git
 * Basics of Bash
 * Basics of Python
-* Basics of Java.
+
 
 ### Also, I have skills in related spheres:
 * Marketing 
